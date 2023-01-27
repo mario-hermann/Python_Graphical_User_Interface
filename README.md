@@ -1,3 +1,7 @@
-# GUI
-
+# INTRODUCTION TO PROJECT
 This is a test Readme.
+# METHODS
+Testmethods
+# USED LIBRARIES
+Lib 1,2,3
+# RESULTS
